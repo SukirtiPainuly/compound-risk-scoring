@@ -1,0 +1,27 @@
+[
+  {
+    "wallet":"0x0039f22efb07a647557c7c5d17854cfd6d489ef3",
+    "dummy_feature":1,
+    "tx_count":0
+  },
+  {
+    "wallet":"0x06b51c6882b27cb05e712185531c1f74996dd988",
+    "dummy_feature":1,
+    "tx_count":0
+  },
+  {
+    "wallet":"0x0795732aacc448030ef374374eaae57d2965c16c",
+    "dummy_feature":1,
+    "tx_count":0
+  },
+  {
+    "wallet":"0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9",
+    "dummy_feature":1,
+    "tx_count":0
+  },
+  {
+    "wallet":"0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae",
+    "dummy_feature":1,
+    "tx_count":0
+  }
+]
